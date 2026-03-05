@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ModernMessenger</string>
+    <string name="login_to_our_app">Вход в наше приложение</string>
+
+    <string name="login">Вход</string>
+    <string name="create_acc">Создать аккаунт</string>
+
+    <string name="phone">Номер телефона (+7XXXXXXXXXX)</string>
+    <string name="phone_icon">Иконка номера телефона</string>
+
+    <string name="sms_code">Смс-код</string>
+    <string name="sms_code_icon">Иконка смс кода</string>
+
+    <string name="get_code">Получить код</string>
+
+    <string name="username">Имя пользователя</string>
+    <string name="username_icon">Иконка пользователя</string>
+
+    <string name="chats">Чаты</string>
+    <string name="new_chat">Создайте новый чат</string>
+    <string name="user_chats">Чаты</string>
+    <string name="message">Введите сообщение...</string>
+    <string name="search_users">Поиск по номеру телефона</string>
+</resources>

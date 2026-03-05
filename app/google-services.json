@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "460412092557",
+    "firebase_url": "https://modernmessenger-56b39-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "modernmessenger-56b39",
+    "storage_bucket": "modernmessenger-56b39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460412092557:android:160048fe927d9b3d0c62c4",
+        "android_client_info": {
+          "package_name": "com.example.modernmessenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgCY9HkSGhBCQvC_wwLQczB_OR9UXxJ-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460412092557:android:2bf0c3d3d3c41db50c62c4",
+        "android_client_info": {
+          "package_name": "com.llc.modernmessenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgCY9HkSGhBCQvC_wwLQczB_OR9UXxJ-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

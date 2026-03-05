@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/bottom_navigation"
+    app:startDestination="@id/user_chats">
+<fragment
+    android:id="@+id/user_chats"
+    android:name="com.example.modernmessenger.presentation.fragment.UserChatsFragment"
+    android:label="@string/user_chats"/>
+
+    <fragment
+        android:id="@+id/new_chat"
+        android:name="com.example.modernmessenger.presentation.fragment.NewChatFragment"
+        android:label="@string/new_chat"/>
+</navigation>
